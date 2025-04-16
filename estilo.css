@@ -1,0 +1,41 @@
+body{
+background-color: rgb(241, 193, 153);
+}
+
+h1,h2,h3{
+    text-align: center;
+    color:#341c03;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: italic;
+}
+h2 {
+    text-transform: capitalize;
+    font-size: 15px; 
+}
+
+h3 {
+    font-style: italic;
+  }
+
+h4{
+    text-decoration: italic;
+    color:#000000;
+}
+img{
+    border-radius: 40px;
+    width: 80%; 
+    display: block;
+    margin: 60px auto;
+}
+p{
+    color:#000000;
+}
+ul{
+    color:#000000;
+}
+a {
+    text-decoration: underline;
+    color: #1f4ba3;
+  }
